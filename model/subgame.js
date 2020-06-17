@@ -1,5 +1,5 @@
 const BOARD_SIZE = 3;
-class minigame {
+class subgame {
     constructor() {
         this.winner = ' ';
         this.board = [
@@ -89,3 +89,5 @@ class minigame {
     }
     
 }
+
+// export default subgame;
